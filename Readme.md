@@ -5,8 +5,9 @@ This repository is dedicated to jupyter notebooks which weren't able to make it 
 RIP.
 
 To install dependencies : 
-
-` pip install -r requirements.txt `
+``` 
+pip install -r requirements.txt 
+```
 
 ## ML Algorithms in Repository
 
