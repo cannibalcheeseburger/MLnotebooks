@@ -1,4 +1,4 @@
-# ML algorithms implemented in Jupyter Notebooks
+# ML algorithms implemented(2020,colorised)
 
 This repository is dedicated to jupyter notebooks which weren't able to make it out of 2020 masssacre.
 RIP
